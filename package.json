@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test":"echo\"Error:no test test specified\" && exit 1",
+    "dev": "tailwindcss -i ./src/input.css -o ./first/style.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.9"
+  }
+}
